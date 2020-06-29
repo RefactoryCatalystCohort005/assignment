@@ -1,0 +1,29 @@
+.container{
+    background:rgb(204, 238, 185);
+    border:2px solid #008f18;
+}
+#addresses{
+    background-color: white;
+    border:2px solid #008f18;
+    height: auto;
+
+}
+.tsuma{
+    width: 20%;
+    padding-left: 0;
+}
+.tsuma1{
+    width: 12%;
+    text-align: left;
+    font-size:  15px;
+    padding-left: 0;
+
+}
+.big{
+    font-weight: bold;
+}
+.small{
+    font-size: 14px;
+    text-align: left;
+    padding-left: 14px;
+}
