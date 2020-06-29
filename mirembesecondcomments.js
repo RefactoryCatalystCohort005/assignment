@@ -47,5 +47,5 @@ function fnalCrsMrk() {
 //printing the value of the value fmark in the console 
   console.log(fmark);
 }
-//invokign the function fnalCrsMrk
+//invoking the function fnalCrsMrk
 fnalCrsMrk();
